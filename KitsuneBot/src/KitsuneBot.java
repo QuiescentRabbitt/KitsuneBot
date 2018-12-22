@@ -5,6 +5,11 @@ import net.dv8tion.*;
 import javax.security.auth.login.LoginException;
 
 import net.*;
+
+//@QuiescentRabbitt
+//12/22/18
+
+
 public class KitsuneBot extends ListenerAdapter {
 	public static String BotOwner = "280449641034678272"; //UserID of owner goes here (Default is mine)
 	public static void main(String[] args) {
